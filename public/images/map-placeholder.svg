@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">Map placeholder</title>
+  <desc id="desc">Placeholder for Google Maps embed</desc>
+  <rect width="1000" height="620" fill="#f3f4f6"/>
+  <path d="M0 170c160-65 312 32 500-35s332-36 500 12v473H0z" fill="#ede9fe"/>
+  <path d="M0 392c175-70 302 55 472-20s341-36 528 21" stroke="#ffffff" stroke-width="34" fill="none"/>
+  <path d="M170 0v620M430 0v620M700 0v620" stroke="#ffffff" stroke-width="20" opacity="0.85"/>
+  <path d="M500 188c-72 0-130 58-130 130 0 98 130 220 130 220s130-122 130-220c0-72-58-130-130-130z" fill="#5b259f"/>
+  <circle cx="500" cy="318" r="48" fill="#f6c945"/>
+  <text x="500" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#3b176b">รอเพิ่ม Google Maps Embed</text>
+</svg>

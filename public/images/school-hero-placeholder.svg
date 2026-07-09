@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+  <title id="title">School building placeholder</title>
+  <desc id="desc">Placeholder image for school building upload</desc>
+  <rect width="1280" height="800" fill="#f3f4f6"/>
+  <rect x="130" y="210" width="1020" height="380" rx="14" fill="#ffffff" stroke="#e5e7eb" stroke-width="6"/>
+  <rect x="200" y="285" width="210" height="240" rx="8" fill="#ede9fe"/>
+  <rect x="470" y="285" width="210" height="240" rx="8" fill="#ede9fe"/>
+  <rect x="740" y="285" width="210" height="240" rx="8" fill="#ede9fe"/>
+  <path d="M160 210h960l-70-95H230z" fill="#5b259f"/>
+  <rect x="585" y="360" width="110" height="230" rx="8" fill="#3b176b"/>
+  <circle cx="640" cy="150" r="52" fill="#f6c945"/>
+  <path d="M638 74v76l58 24" stroke="#3b176b" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <text x="640" y="675" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#5b259f">รออัปโหลดภาพอาคารเรียน</text>
+</svg>

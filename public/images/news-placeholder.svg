@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">News placeholder</title>
+  <desc id="desc">Placeholder image for school news</desc>
+  <rect width="800" height="600" fill="#f3f4f6"/>
+  <rect x="160" y="120" width="480" height="300" rx="18" fill="#ffffff" stroke="#e5e7eb" stroke-width="5"/>
+  <path d="M240 330l92-105 74 82 44-50 110 128H240z" fill="#d8b4fe"/>
+  <circle cx="530" cy="205" r="34" fill="#f6c945"/>
+  <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#5b259f">รออัปโหลดภาพข่าว</text>
+</svg>
